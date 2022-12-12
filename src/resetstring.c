@@ -1,3 +1,4 @@
+//initialise variable length charr array with all 0
 
 void resetstring(char* string, int length) {
 

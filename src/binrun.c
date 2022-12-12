@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 		exit(1);
 	}
 
-//64 is calculated to be enough to fit hardcoded perimeter
+//64 is calculated to be enough to fit hardcoded perimeters
 	int cmd_len = 64;
 
 //set length of char array to accomodate arguments provided
